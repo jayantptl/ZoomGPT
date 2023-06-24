@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ZoomGPT/static/css/main.245d1fde.css",
+    "main.js": "/ZoomGPT/static/js/main.69e2d9c5.js",
+    "static/js/787.f0509c70.chunk.js": "/ZoomGPT/static/js/787.f0509c70.chunk.js",
+    "index.html": "/ZoomGPT/index.html",
+    "main.245d1fde.css.map": "/ZoomGPT/static/css/main.245d1fde.css.map",
+    "main.69e2d9c5.js.map": "/ZoomGPT/static/js/main.69e2d9c5.js.map",
+    "787.f0509c70.chunk.js.map": "/ZoomGPT/static/js/787.f0509c70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.245d1fde.css",
+    "static/js/main.69e2d9c5.js"
+  ]
+}
