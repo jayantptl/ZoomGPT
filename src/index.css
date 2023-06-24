@@ -7,7 +7,13 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+html, body{
+  min-width: 0 !important;
+}
+body{
+  background-color: #e3dee2
+}
+
+#zmmtg-root{
+   display: none;
 }
